@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment_scottish_magical_realism_individual_collective",
+  "title": "The Whisper in the Stone",
+  "tagline": "A woman inherits a secret history of Scotland, where the Enlightenment's reason battles the land's ancient, collective memory.",
+  "target_words": 70000,
+  "actual_words": 69960,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Clash of Rationalism and Folklore",
+    "Inherited vs. Chosen Identity",
+    "The Collective Memory of Place",
+    "The Unseen Architecture of History"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Highland Rain",
+      "words": 2915
+    },
+    {
+      "ch": 2,
+      "title": "The Apothecary Bottle",
+      "words": 2915
+    },
+    {
+      "ch": 3,
+      "title": "The First Whisper",
+      "words": 2915
+    },
+    {
+      "ch": 4,
+      "title": "Shona's Warning",
+      "words": 2915
+    },
+    {
+      "ch": 5,
+      "title": "The Map of Cracks",
+      "words": 2915
+    },
+    {
+      "ch": 6,
+      "title": "The Edinburgh Rationalist",
+      "words": 2915
+    },
+    {
+      "ch": 7,
+      "title": "Calum's Ledger",
+      "words": 2915
+    },
+    {
+      "ch": 8,
+      "title": "The Singing Stair",
+      "words": 2915
+    },
+    {
+      "ch": 9,
+      "title": "A Fracture in the Tenement",
+      "words": 2915
+    },
+    {
+      "ch": 10,
+      "title": "The Society of Listeners",
+      "words": 2915
+    },
+    {
+      "ch": 11,
+      "title": "The Geology of Ghosts",
+      "words": 2915
+    },
+    {
+      "ch": 12,
+      "title": "Margaret's Denial",
+      "words": 2915
+    },
+    {
+      "ch": 13,
+      "title": "The Iona Stone Awakens",
+      "words": 2915
+    },
+    {
+      "ch": 14,
+      "title": "A Dialogue with Hume's Ghost",
+      "words": 2915
+    },
+    {
+      "ch": 15,
+      "title": "The Weeping Granite",
+      "words": 2915
+    },
+    {
+      "ch": 16,
+      "title": "The Council of the Close",
+      "words": 2915
+    },
+    {
+      "ch": 17,
+      "title": "Burning the Ledger",
+      "words": 2915
+    },
+    {
+      "ch": 18,
+      "title": "The River Clyde's Memory",
+      "words": 2915
+    },
+    {
+      "ch": 19,
+      "title": "The Falcon's Head Staff",
+      "words": 2915
+    },
+    {
+      "ch": 20,
+      "title": "Choosing the Chorus",
+      "words": 2915
+    },
+    {
+      "ch": 21,
+      "title": "The Developer's Drill",
+      "words": 2915
+    },
+    {
+      "ch": 22,
+      "title": "A Symphony of Cracks",
+      "words": 2915
+    },
+    {
+      "ch": 23,
+      "title": "The New Architecture",
+      "words": 2915
+    },
+    {
+      "ch": 24,
+      "title": "Listening to the World",
+      "words": 2915
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter where Ishbel discovers a 'whispering' artifact in the Edinburgh New Town that holds a suppressed Enlightenment memory.",
+      "Create a scene where Shona explains the 'collective' nature of the city's memory to a skeptical young urban planner.",
+      "Draft a monologue from the perspective of the tenement building itself, feeling the new fracture Ishbel has discovered.",
+      "Write a modern-day encounter where Ishbel uses her grandfather's methods to resolve a community dispute by 'listening' to the land."
+    ],
+    "technical": [
+      "Build a web experience that maps the novel's 'whispers' onto a real map of Glasgow, triggering audio clips of found text at specific coordinates.",
+      "Create a generative text tool that mimics the 'collective voice' of the city, blending historical quotes, folklore, and architectural descriptions."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Robert Burns (poet of people and place)",
+      "David Hume (skeptic philosopher of the self)",
+      "Iain Banks (writer of Scottish culture and scale)",
+      "Ursula K. Le Guin (explorer of collective consciousness)"
+    ]
+  },
+  "cover_prompt": "A woman stands at a threshold, one hand resting on the cool, carved lintel of a Neolithic stone doorway that frames a misty Scottish glen, while her other hand holds a glowing, geometric orb of Enlightenment reason, its light casting precise shadows that clash with the organic, whispering phosphorescence emanating from the ancient stone itself, [atmospheric setting with mood-appropriate details: the scene is a liminal space where a ruined 18th-century library merges with the primordial landscape, its broken shelves spilling leather-bound treatises that take root as trees, and its mathematical diagrams are overgrown with Celtic knotwork that pulses with a soft, earthly light], [in the atmospheric style of a specific artist known for similar aesthetics: in the hauntingly beautiful and symbolic style of Remedios Varo, combined with the textured, earthy realism of Anselm Kiefer], [book cover framing, centered composition, dramatic angle: a symmetrical book cover composition, the woman centered within the stone archway, viewed from a low-angle that emphasizes the monumental scale of the clash between the geometric light and the organic stone, with a tight crop that feels both intimate and epic], [appropriate lighting style with color temperature: dramatic chiaroscuro lighting where the cool, rational blue-white light of the orb battles the warm, ethereal amber and moss-green bioluminescence of the land, all under a twilight sky of deep indigo and slate grey], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
