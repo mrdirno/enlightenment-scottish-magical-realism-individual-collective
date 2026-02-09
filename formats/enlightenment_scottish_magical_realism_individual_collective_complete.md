@@ -2,7 +2,10 @@
 
 ## CHAPTER 1
 
-The rain on the day of the funeral was not a Glasgow rain. It was a Highland rain, a borrowed, grieving thing that had slipped its moorings in the glens and come south to haunt the streets of Partick. It fell not in drops but in a fine, persistent mist that beaded on the black wool of coats and made the granite of the tenements weep slow, grey tears. It was the kind of rain that didn’t soak you through, but got *in*, settling in the marrow of things.
+Edinburgh’s cobbles tasted of wet wool and cold iron, a flavour Duncan MacLeod carried on his tongue as he walked. It was the taste of the city’s reason, of damp stone logic. Until the stone lion on the South Bridge winked one granite eye and whispered, quite distinctly, that his sums were wrong.
+
+
+
 
 Ishbel MacLeod stood under the skeletal arms of the lime tree at the back of the Western Necropolis, watching it. She wasn’t watching the coffin, which was a plain, decent thing of oak, nor the small cluster of dark umbrellas around the hole in the ground. She was watching the way the rain made a shimmering, invisible curtain between her and the ceremony, softening the edges of the minister’s words, turning the whole scene into a faded photograph. Appropriate, she thought. Her grandfather, Calum MacLeod, had been a man of edges. Sharp ones. To see him blurred was a new and unsettling thing.
 
