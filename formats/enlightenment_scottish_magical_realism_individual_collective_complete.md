@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 The rain on the day of the funeral was not a Glasgow rain. It was a Highland rain, a borrowed, grieving thing that had slipped its moorings in the glens and come south to haunt the streets of Partick. It fell not in drops but in a fine, persistent mist that beaded on the black wool of coats and made the granite of the tenements weep slow, grey tears. It was the kind of rain that didn’t soak you through, but got *in*, settling in the marrow of things.
